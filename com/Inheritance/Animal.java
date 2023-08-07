@@ -34,6 +34,7 @@ class dog extends Animal{
 
     @Override
     public void makeSound() {
+
        super.makeSound();
         System.out.println("DOg barks");
     }
